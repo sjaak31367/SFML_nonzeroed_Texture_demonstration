@@ -4,4 +4,4 @@ Short and simple example to demonstrate that "empty" SFML.Net Textures aren't (a
 This was built against [SFML.Net](https://github.com/SFML/SFML.Net) 2.5.0.  
 If you don't have SFML.Net installed yet, see [SFML.Net/Download](https://www.sfml-dev.org/download/sfml.net/).  
 
-Tested on Microsoft Windows 8.1 & Microsoft Windwows 10.  
+Tested on Microsoft Windows 8.1 & Microsoft Windows 10.  
